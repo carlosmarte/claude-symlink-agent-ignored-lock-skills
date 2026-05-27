@@ -1,3 +1,4 @@
 .agents/skills/agent-skill-kit-*
 .claude/skills/agent-skill-kit-*
 .claude/skills/claude-symlink-agent-individual-skills
+.claude/skills/skill-repo-readme

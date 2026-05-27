@@ -1,0 +1,1 @@
+# claude-symlink-agent-ignored-lock-skills
